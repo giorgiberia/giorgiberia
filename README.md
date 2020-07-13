@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning swagger
-- 👯 I’m looking to collaborate on everythong you ask me
+- 👯 I’m looking to collaborate on everything you ask me
 - 🤔 I’m looking for help with Front End frameworks
 - 💬 Ask me about Django
 - 📫 How to reach me: beria.giorgi1@gmail.com
