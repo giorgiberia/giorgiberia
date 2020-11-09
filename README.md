@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Django
-- 🌱 I’m currently learning swagger,Open Api 3
+- 📚 I’m currently reading Expert Python Programming by Michael Jaworski
 - 👯 I’m looking to collaborate on everything you ask me
 - 🤔 I’m looking for help with Front End frameworks
 - 💬 Ask me about Django
