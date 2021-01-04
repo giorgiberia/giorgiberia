@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=giorgiberia)
 - 🔭 I’m currently working on Django
 - 📚 I’m currently reading Expert Python Programming by Michael Jaworski
 - 👯 I’m looking to collaborate on everything you ask me
