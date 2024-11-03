@@ -2,13 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=giorgiberia)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giorgiberia.giorgiberia)
 
-### 📊 GitHub Stats
-![Giorgi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giorgiberia&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiberia&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgiberia&theme=radical)
-![Giorgi's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=giorgiberia&theme=redical)
-
-
 I'm Giorgi Beria, a software engineer based in Batumi, Georgia 🌍. I've been crafting scalable solutions and efficient web applications, with a knack for backend,frontend development and DevOps practices. Dive in to discover my projects, contributions, and passion for technology!
 
 ---
