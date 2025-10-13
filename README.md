@@ -2,7 +2,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giorgiberia.giorgiberia)
 
 I'm Giorgi Beria, a software engineer based in Batumi, Georgia 🌍. I've been crafting scalable solutions and efficient web applications, with a knack for backend,frontend development and DevOps practices. Dive in to discover my projects, contributions, and passion for technology!
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ---
 
 ### 🛠️ Tech Stack & Expertise
@@ -11,7 +11,7 @@ I'm Giorgi Beria, a software engineer based in Batumi, Georgia 🌍. I've been c
 - **DevOps**: Kubernetes, Docker, Nginx, Redis, Linux
 - **Database Management**: MySQL, PostgreSQL
 - **Tools & Services**: Sentry, NumPy, OpenCV, SOAP, Beautiful Soup
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 ---
 
 ### 🤝 Collaboration & Opportunities
