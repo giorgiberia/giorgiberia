@@ -12,7 +12,7 @@ I'm Giorgi Beria, a software engineer based in Batumi, Georgia 🌍. I've been c
 - **Database Management**: MySQL, PostgreSQL
 - **Tools & Services**: Sentry, NumPy, OpenCV, SOAP, Beautiful Soup
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django)](https://skillicons.dev)
 ---
 
 ### 🤝 Collaboration & Opportunities
