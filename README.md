@@ -22,6 +22,7 @@ I'm always open to exciting collaborations, whether it's building new features, 
 - **Email**: [beria.giorgi1@gmail.com](mailto:beria.giorgi1@gmail.com)
 - **LinkedIn**: [Giorgi Beria](https://linkedin.com/in/giorgiberia)
 - **Telegram** [beria_giorgi](https://t.me/beria_giorgi)
+- **Website** [giorgiberia.com](https://giorgiberia.com)
 ---
 
 ### 🌱 Fun Facts & Hobbies
